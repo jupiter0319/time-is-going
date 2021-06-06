@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.form,.greetings{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
